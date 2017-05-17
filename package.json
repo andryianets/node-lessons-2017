@@ -1,0 +1,10 @@
+{
+  "name": "node-hometask-1",
+  "version": "0.0.1",
+  "author": "Yury_Andryianets@epam.com",
+  "scripts": {
+    "start01-1": "node ./tasks/task01-1.js 1 3 4 7 66",
+    "start02-1": "node ./tasks/task01-2 Boris",
+    "start03-1": "node ./tasks/task01-3 cat"
+  }
+}
