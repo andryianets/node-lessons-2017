@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "title": "Node.js runs on _____",
+      "questions": [
+        "Client",
+        "Server",
+        "Both, server and client",
+        "None of the above"
+      ],
+      "check": 2
+    },
+    {
+      "title": "Node.js is ________ by default.",
+      "questions": [
+        "Synchronous",
+        "Multi-threaded",
+        "Asynchronous",
+        "None of the above"
+      ],
+      "check": 2
+    },
+    {
+      "title": "Node.js supports which of the following platform?",
+      "questions": [
+        "Windows",
+        "Macintosh",
+        "Unix/Linux",
+        "All of the above"
+      ],
+      "check": 3
+    },
+    {
+      "title": "Node.js terminal (REPL) is used for _________.",
+      "questions": [
+        "testing node.js/JavaScript expressions",
+        "executing browser’s JavaScript expressions.",
+        "the preview of node.js application.",
+        "None of the above"
+      ],
+      "check": 0
+    },
+    {
+      "title": "What is the default scope in Node.js application.",
+      "questions": [
+        "Global",
+        "Local",
+        "Global Function",
+        "Local to object"
+      ],
+      "check": 1
+    },
+    {
+      "title": "Node.js application runs on __________.",
+      "questions": [
+        "Multiple threads",
+        "Single thread",
+        "Multiple Processes",
+        "Single Process"
+      ],
+      "check": 1
+    },
+    {
+      "title": "Simple or complex functionality organized in a single or multiple JavaScript files which can be reused throughout your Node.js application is called ________.",
+      "questions": [
+        "Module",
+        "Library",
+        "Package",
+        "Function"
+      ],
+      "check": 0
+    },
+    {
+      "title": "The Node.js modules can be exposed using _________.",
+      "questions": [
+        "module.expose",
+        "module",
+        "module.exports",
+        "all of the above"
+      ],
+      "check": 2
+    },
+    {
+      "title": "Third-party packages can be install/update/delete using ________.",
+      "questions": [
+        "Node Package Manager",
+        "Node.exe",
+        "Module.exports",
+        "REPL"
+      ],
+      "check": 0
+    },
+    {
+      "title": "Which of the following core module is used to create a web server in Node.js?",
+      "questions": [
+        "fs",
+        "url",
+        "connect",
+        "http"
+      ],
+      "check": 3
+    }
+  ]
+}
