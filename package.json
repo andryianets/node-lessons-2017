@@ -2,9 +2,14 @@
   "name": "node-hometask-1",
   "version": "0.0.1",
   "author": "Yury_Andryianets@epam.com",
+  "repository": "https://github.com/andryianets/node-lessons-2017.git",
   "scripts": {
-    "start01-1": "node ./tasks/task01-1.js 1 3 4 7 66",
-    "start02-1": "node ./tasks/task01-2 Boris",
-    "start03-1": "node ./tasks/task01-3 cat"
-  }
+    "task01-1": "node ./tasks/task01-1.js 1 3 4 7 66",
+    "task01-2": "node ./tasks/task01-2 Boris",
+    "task01-3": "node ./tasks/task01-3 cat",
+    "task02": "node ./tasks/task02"
+  },
+  "dependencies": {
+  },
+  "license": "MIT"
 }
