@@ -1,0 +1,12 @@
+You are requested as an architect and technology consultant into project
+aiming to manufacture Google Spreadsheets analogue (full-stack solution)
+
+Customer asked to prepare technology stack (both for back-end and front-end) for
+the target application (frameworks, libs, bundle and build tools, testing).
+Customer also wants to know a vision on possible application architecture.
+
+Opportunity details
+Target devices: PC, Tablet*
+Target browser: Modern Browsers
+Team: 4 persons with different skillsets (D1, D2, D3, D4)
+(we don't need to provide a team composition, since it could be one of the questions)

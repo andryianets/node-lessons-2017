@@ -7,9 +7,15 @@
     "task01-1": "node ./tasks/task01-1.js 1 3 4 7 66",
     "task01-2": "node ./tasks/task01-2 Boris",
     "task01-3": "node ./tasks/task01-3 cat",
-    "task02": "node ./tasks/task02"
+    "task02": "node ./tasks/task02",
+    "task03": "nodemon ./tasks/task03",
+    "task04": "node ./tasks/task04",
+    "task05": "nodemon ./tasks/task05"
   },
   "dependencies": {
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   },
   "license": "MIT"
 }
